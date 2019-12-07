@@ -5,3 +5,5 @@ this is inital read me
 - python
 - java
 - mysql
+- html
+- css
